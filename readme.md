@@ -15,12 +15,13 @@ JavaScript、Node.js、Axios、Restful API、URL 加解密、AES 加解密。
 
 # 我想了解更多關於綠界科技的電子發票。
 
-[電子發票介紹網頁](https://www.ecpay.com.tw/Business/invoice)
-[B2C 電子發票技術文件](https://developers.ecpay.com.tw/?p=7809)
-[B2B 電子發票技術文件](https://developers.ecpay.com.tw/?p=24139)
+- [電子發票介紹網頁](https://www.ecpay.com.tw/Business/invoice)
+- [B2C 電子發票技術文件](https://developers.ecpay.com.tw/?p=7809)
+- [B2B 電子發票技術文件](https://developers.ecpay.com.tw/?p=24139)
 
 # 本程式作者
 
 Roan，專長是碎碎念。
-[Roan 的網誌](https://medium.com/@roan6903)
-[Roan 的 GitHub](https://github.com/evojroan)
+
+- [Roan 的網誌](https://medium.com/@roan6903)
+- [Roan 的 GitHub](https://github.com/evojroan)
